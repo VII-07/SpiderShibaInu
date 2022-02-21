@@ -1,0 +1,8 @@
+@mixin box {
+    background: #384D70;
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+@mixin font{
+    font-family: 'SF Pro Display', sans-serif;
+}
